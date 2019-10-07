@@ -3,7 +3,7 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './pages/Home/App';
 import NaoEncontrado from "./pages/NaoEncontrado/NaoEncontrado";
-//import { Route, Link, BrowserRouter as Router, Switch} from "react-router-dom";
+import { Route, Link, BrowserRouter as Router, Switch} from "react-router-dom";
 import * as serviceWorker from './serviceWorker';
 
 
